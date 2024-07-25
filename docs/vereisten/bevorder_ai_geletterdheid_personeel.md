@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/2f57de45-0d9e-41e1-abe7-eedb588ed526)---
 title: Bevorder AI-geletterdheid van personeel en gebruikers
 toelichting: Aanbieders en exploitanten van AI-systemen moeten ervoor zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI. Dit omvat het bevorderen van kennis over de techniek, evenals kennis over de context waarin de AI-systemen worden gebruikt en de gebruikers van deze systemen. Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat bijdraagt aan een verantwoord gebruik van AI en het minimaliseren van risico's.
 status_vereiste: 
@@ -36,7 +36,7 @@ Aanbieders en exploitanten van AI-systemen nemen maatregelen om, zoveel als moge
 Aanbieders en exploitanten van AI-systemen nemen maatregelen om ervoor te zorgen dat hun personeel en andere betrokkenen voldoende kennis hebben van AI.
 Dit omvat het bevorderen van kennis over de techniek, evenals kennis over de context waarin de AI-systemen worden gebruikt en de gebruikers van deze systemen. 
 Daarnaast moet er worden ingezet op het delen van ervaringen, passend onderwijs en opleiding van inidividuen.
-Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat bijdraagt aan een verantwoord gebruik van AI en het minimaliseren van risico's.
+Het doel is om een adequaat niveau van begrip en vaardigheden te waarborgen, wat bijdraagt aan een verantwoord gebruik van AI en het minimaliseren van risico's. Artikel 4 van de AI-verordening beschrijft deze vereiste voor AI-geletterdheid. Februari 2025 treedt dit artikel in werking.
 
 ## Bronnen 
 
